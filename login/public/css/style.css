@@ -1,0 +1,69 @@
+*{
+    background-color: white;
+    color: black;
+}
+a{
+    display: block;
+}
+a.opcao{
+    display:inline;
+}
+a.opcao:hover{
+    color: chartreuse;
+}
+span.anime{
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.add{
+    background-color: white;
+    color:black;
+}
+
+input.add{
+    display: block;
+    color: black;
+    background-color: white;
+    margin-bottom: 5px;
+    width: 90%;
+}
+#adicionar_anime{
+    width: 15%;
+    color: white;
+    background-color: white;
+}
+input.enviar{
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 2.5rem;
+    margin-top: 5px;
+    width: 100%;
+}
+input.enviar:hover{
+    background-color: deepskyblue;
+}
+textarea.add{
+    width: 90%;
+}
+.msg{
+    background-color: #D4EDDA;
+    color: #155724;
+    border: 1px solid #C3E6CB;
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+div.navegar{
+    border : 1px solid black;
+    padding-left: 5px;
+    width: 15%;
+    margin-top: 20%;
+}
+a.navegar{
+    font-size: large;
+}
+a.navegar:hover{
+    color: chartreuse;
+}
